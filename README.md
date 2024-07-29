@@ -1,7 +1,7 @@
 # HR Analyst dashboard
 HR Analyst Dashboard
 
-The HR Analyst Dashboard is a Power BI dashboard created using Excel data. This project involved data cleaning, transformation, and visualization to provide insights into HR metrics. The dashboard uses various chart types, including line graphs, bar charts, and pie charts, to present the data in an intuitive and informative manner.
+The HR Analyst Dashboard is a Power BI dashboard created using Excel data. This project involved data cleaning, transformation, and visualization to provide insights into HR metrics. The dashboard uses various chart types, including line graphs, bar charts, and pie charts, to present the data intuitively and informally.
 
 Table of Contents
 
@@ -28,14 +28,14 @@ Contributing
 Introduction
 
 
-The HR Analyst Dashboard provides a comprehensive view of HR-related data, allowing stakeholders to gain insights into various metrics such as employee demographics, performance, and other key indicators. The data used for this dashboard was sourced from Excel files, cleaned, and transformed before being visualized in Power BI.
+The HR Analyst Dashboard provides a comprehensive view of HR-related data, allowing stakeholders to gain insights into metrics such as employee demographics, performance, and other key indicators. The data used for this dashboard was sourced from Excel files, cleaned, and transformed before being visualized in Power BI.
 
 Features
 
 
 Data Cleaning and Transformation: Raw data from Excel was cleaned and transformed to ensure accuracy and consistency.
 Interactive Visualizations: The dashboard includes interactive elements that allow users to explore the data in depth.
-Various Chart Types: Utilizes line graphs, bar charts, pie charts, and more to present data clearly.
+Various Chart Types: Utilizes line graphs, bar charts, pie charts, and more to present data.
 User-Friendly Interface: Designed with an intuitive interface for easy navigation and data exploration.
 Installation
 To view the HR Analyst Dashboard, you will need Power BI Desktop installed on your computer. Follow these steps:
@@ -83,4 +83,10 @@ git push origin feature-branch
 Open a pull request.
 
 
+Glimpse of project: 
+
+
+
 ![Screenshot 2024-07-29 213855](https://github.com/user-attachments/assets/b3b49e63-b268-4ace-ad1a-6873517ce459)
+
+
