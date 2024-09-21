@@ -87,6 +87,16 @@ Glimpse of project:
 
 
 
-![Screenshot 2024-07-29 213855](https://github.com/user-attachments/assets/b3b49e63-b268-4ace-ad1a-6873517ce459)
+![Screenshot 2024-09-21 231236](https://github.com/user-attachments/assets/a5348efa-7299-4d5d-b9dd-876c5196409d)
+
+
+![Screenshot 2024-09-21 231304](https://github.com/user-attachments/assets/1241de79-9431-4cdf-aac4-64ebcb54346d)
+
+
+![Screenshot 2024-09-21 231322](https://github.com/user-attachments/assets/a9db7cc2-2d43-4e64-912f-4e424edc568e)
+
+
+
+
 
 
